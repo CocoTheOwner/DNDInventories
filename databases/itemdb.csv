@@ -236,10 +236,13 @@ MISC,Glass bottle,10.0,0.1,
 MISC,Grappling hook,0.8,4.0,
 MISC,Greek fire,10.0,2.0,per flask
 MISC,Grindstone,0,0.5,
+MISC,Healing Kit (Small),15,0.5,
+MISC,Healing Kit (Medium),25,1,
+MISC,Healing Kit (Large),75,3,
 MISC,Holy item,25.0,0.1,
 MISC,Hourglass,25.0,1.0,
 MISC,Iron pot,0.5,2.0,
-MISC,Ladder (10 ft.) ,0.05,20.0,
+MISC,Ladder,0.05,20.0,per 10 ft.
 MISC,Lamp Oil,0.06,1.0,per flask
 MISC,Lantern (Beacon),150.0,50.0,
 MISC,Lantern (Bullseye),12.0,3.0,
@@ -253,6 +256,7 @@ MISC,Mirror (small metal),10.0,0.1,
 MISC,Paper,2.0,0.01,per sheet
 MISC,Papyrus,0.8,0.01,per sheet
 MISC,Parchment,1.0,0.01,per sheet
+MISC,Pen & Quill,0.1,0.1,
 MISC,Perfume,5.0,0.1,per vial
 MISC,Piton,0.03,0.01,
 MISC,Quiver,0.8,1.0,

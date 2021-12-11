@@ -19,7 +19,187 @@
   "cc": "CLERIC",
   "exp": 7360,
   "realLvl": 2,
-  "stones": [],
-  "items": [],
+  "items": [
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Belt",
+        "worth": {
+          "cp": 0,
+          "sp": 3,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Boots (Soft)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Sword Baldric",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 4,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Cloak (Good cloth)",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Armor (Studded leather)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 20,
+          "simplify": true
+        },
+        "weight": 25.0,
+        "details": "AC 7"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Backpack",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Paper",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.01,
+        "details": "per sheet"
+      },
+      "amount": 20,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Writing ink",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 8,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "per vial"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Pen \u0026 Quill",
+        "worth": {
+          "cp": 0,
+          "sp": 1,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Healing Kit (Medium)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 25,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    }
+  ],
   "name": "Trevor"
 }
