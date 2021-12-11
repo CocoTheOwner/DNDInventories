@@ -1,80 +1,79 @@
-Alexandrite,Dark green,100,
-Amber,Transparent golden,100,
-Amethyst,Purple crystal,100,
-Aquamarine,pale blue green,500,
-Azurite,Opaque,10,
-Azurite,mottled deep blue,10,
-Banded Agate,Brown and white stripes,10,
-Banded Agate,blue and white stripes,10,
-Banded Agate,red and white stripes,10,
-Black Opal,Dark green with black mottling and golden flecks,1000,
-Black Sapphire,Rich black with highlights,5000,
-Bloodstone,Dark gray with red flecks,50,
-Blue Quartz,Transparent pale blue,10,
-Carnelian,Orange to red-brown,50,
-Chalcedony,White,50,
-Chrysoberyl,green or yellow green,100,
-Chrysoprase,Translucent apple to emerald green,50,
-Citrine,Pale yellow brown,50,
-Coral,Pink to crimson,100,
-Diamond,Clear blue-white,5000,
-Diamond,rich blue,5000,
-Diamond,yellow,5000,
-Diamond,or pink,5000,
-Emerald,Brilliant green,5000,
-Eye Agate,Gray,10,
-Eye Agate,white,10,
-Eye Agate,brown,10,
-Eye Agate,blue,10,
-Eye Agate,and green circles,10,
-Fire Opal,Fiery red,1000,
-Garnet,Deep red to violet crystal,100,
-Hematite,Gray-black,10,
-Jacinth,Fiery orange,5000,
-Jade,Light to dark green or white,100,
-Jasper,black to brown,50,
-Jasper,Blue,50,
-Jet,Deep black,100,
-Lapis Lazuli,dark blue with yellow flecks,10,
-Lapis Lazuli,Light blue with yellow flecks,10,
-Malachite,Striated light and dark green,10,
-Moonstone,White with pale blue hue,50,
-Moss Agate,yellow-white with gray-green moss-like markings,10,
-Moss Agate,Pink,10,
-Obsidian,Jet black,10,
-Onyx,Black,50,
-Onyx,white,50,
-Onyx,black and white bands,50,
-Opal,Pale blue with green and gold mottling,1000,
-Oriental Amethyst,Deep purple,1000,
-Oriental Emerald,Bright green,5000,
-Oriental Topaz,Fiery yellow,1000,
-Pearl,Pure white,100,
-Pearl,rose,100,
-Pearl,black,500,
-Peridot,Olive green,500,
-Rhodochrosite,Light pink,10,
-Rock Crystal,transparent,50,
-Rock Crystal,Clear,50,
-Ruby,Clear to deep crimson red,5000,
-Sapphire,Clear to medium blue,1000,
-Sardonyx,Bands of red and white,50,
-Smoky Quartz,light gray,50,
-Smoky Quartz,yellow,50,
-Smoky Quartz,brown,50,
-Smoky Quartz,Blue,50,
-Spinel,Red,100,
-Spinel,red-brown,100,
-Spinel,green,500,
-Spinel,deep blue,500,
-Star Rose Quartz,Smoky rose with white star center,50,
-Star Ruby,Translucent ruby with white star highlights,5000,
-Star Sapphire,Translucent blue with white star highlights,5000,
-Tiger Eye Agate,Rich golden brown with dark striping,10,
-Topaz,Golden yellow,500,
-Tourmaline,pale green,100,
-Tourmaline,blue,100,
-Tourmaline,brown,100,
-Tourmaline,red,100,
-Turquoise,Aqua with darker mottling,10,
-Zircon,Clear pale aqua,50,
+Alexandrite,100,Dark Green
+Amber,100,Transparent Golden
+Amethyst,100,Purple Crystal
+Aquamarine,500,Pale Blue Green
+Azurite (Opaque),10,Opaque
+Azurite (Mottled),10,Mottled Deep Blue
+Banded Agate (Brown),10,With White Stripes
+Banded Agate (Blue),10,With White Stripes
+Banded Agate (Red),10,With White Stripes
+Black Opal,1000,Dark Green with Black Mottling and Golden Flecks
+Black Sapphire,5000,Rich Black with Highlights
+Bloodstone,50,Dark Gray with Red Flecks
+Blue Quartz,10,Transparent Pale Blue
+Carnelian,50,Orange to Red-Brown
+Chalcedony,50,White
+Chrysoberyl,100,Green or Yellow Green
+Chrysoprase,50,Translucent Apple to Emerald Green
+Citrine,50,Pale Yellow Brown
+Coral,100,Pink to Crimson
+Diamond (Blue-White),5000,Clear Blue-White
+Diamond (Blue),5000,Rich Blue
+Diamond (Yellow),5000,Yellow
+Diamond (Pink),5000,Pink
+Emerald,5000,Brilliant Green
+Eye Agate (Gray),10,Gray
+Eye Agate (White),10,White
+Eye Agate (Brown),10,Brown
+Eye Agate (Blue),10,Blue
+Eye Agate (Green),10,Green Circles
+Fire Opal,1000,Fiery Red
+Garnet,100,Deep Red to Violet Crystal
+Hematite,10,Gray-Black
+Jacinth,5000,Fiery Orange
+Jade,100,Light to Dark Green or White
+Jasper (Black),50,Black to Brown
+Jasper (Blue),50,Blue
+Jet,100,Deep Black
+Lapis Lazuli (Dark Blue),10,Dark Blue with Yellow Flecks
+Lapis Lazuli (Light Blue),10,Light Blue with Yellow Flecks
+Malachite,10,Striated Light and Dark Green
+Moonstone,50,White with pale Blue hue
+Moss Agate (Yellow),10,Yellow-White with Gray-Green moss-like markings
+Moss Agate (Pink),10,
+Obsidian,10,Jet Black
+Onyx (Black),50,Black
+Onyx (White),50,White
+Onyx (Black and White),50,Black and White bands
+Opal (Blue),1000,Pale Blue with Green and Gold mottling
+Oriental Amethyst,1000,Deep Purple
+Oriental Emerald,5000,Bright Green
+Oriental Topaz,1000,Fiery Yellow
+Pearl (White),100,Pure White
+Pearl (Rose),100,Rose
+Pearl (Black),500,Black
+Peridot,500,Olive Green
+Rhodochrosite,10,Light pink
+Rock Crystal,50,Transparent Clear
+Ruby,5000,Clear to Deep Crimson Red
+Sapphire,1000,Clear to Medium Blue
+Sardonyx,50,Bands of Red and White
+Smoky Quartz (Gray),50,Light Gray
+Smoky Quartz (Yellow),50,Yellow
+Smoky Quartz (Brown),50,Brown
+Smoky Quartz (Blue),50,Blue
+Spinel (Red),100,Red
+Spinel (Red-Brown),100,Red-Brown
+Spinel (Green),500,Green
+Spinel (Blue),500,Deep Blue
+Star Rose Quartz,50,Smoky rose with White star center
+Star Ruby,5000,Translucent ruby with White star Highlights
+Star Sapphire,5000,Translucent Blue with White star Highlights
+Tiger Eye Agate,10,Rich Golden Brown with dark striping
+Topaz,500,Golden Yellow
+Tourmaline (Green),100,Pale Green
+Tourmaline (Blue),100,Blue
+Tourmaline (Brown),100,Brown
+Tourmaline (Red),100,Red
+Turquoise,10,Aqua with darker mottling
+Zircon,50,Clear pale aqua
