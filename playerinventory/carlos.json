@@ -19,7 +19,277 @@
   "cc": "RANGER",
   "exp": 9880,
   "realLvl": 2,
-  "stones": [],
-  "items": [],
+  "items": [
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Belt",
+        "worth": {
+          "cp": 0,
+          "sp": 3,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Boots (Soft)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Sword Baldric",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 4,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Cloak (Good cloth)",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Armor (Studded leather)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 20,
+          "simplify": true
+        },
+        "weight": 25.0,
+        "details": "AC 7"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Backpack",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Bow (Composite Long)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 100,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": "(SM) arrow (L) arrow"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Axe (Hand)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1d6 (L) 1d4"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Axe (Battle)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 5,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 7.0,
+        "details": "(SM) 1d8 (L) 1d8"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Dagger",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "(SM) 1d4 (L) 1d3"
+      },
+      "amount": 4,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Quiver",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Sheaf)",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d8 (L) 1d8"
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Flight)",
+        "worth": {
+          "cp": 3,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d6 (L) 1d6"
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Chalk",
+        "worth": {
+          "cp": 1,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Signal whistle",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    }
+  ],
   "name": "Carlos"
 }

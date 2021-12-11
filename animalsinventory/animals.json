@@ -66,6 +66,14 @@
       "stats": ""
     }
   ],
+  "money": {
+    "cp": 102,
+    "sp": 274,
+    "ep": 283,
+    "gp": 671,
+    "pp": 3,
+    "simplify": false
+  },
   "items": [
     {
       "item": {
