@@ -1,0 +1,25 @@
+{
+  "money": {
+    "cp": 0,
+    "sp": 0,
+    "ep": 0,
+    "gp": 0,
+    "pp": 0,
+    "simplify": false
+  },
+  "str": 16,
+  "dex": 13,
+  "con": 17,
+  "intl": 10,
+  "wis": 17,
+  "chr": 12,
+  "com": 11,
+  "health": 0,
+  "mHp": 41,
+  "cc": "RANGER",
+  "exp": 9550,
+  "realLvl": 2,
+  "stones": [],
+  "items": [],
+  "name": "Carlos"
+}

@@ -1,0 +1,25 @@
+{
+  "money": {
+    "cp": 0,
+    "sp": 0,
+    "ep": 0,
+    "gp": 0,
+    "pp": 0,
+    "simplify": false
+  },
+  "str": 11,
+  "dex": 16,
+  "con": 10,
+  "intl": 18,
+  "wis": 8,
+  "chr": 14,
+  "com": 12,
+  "health": 0,
+  "mHp": 16,
+  "cc": "SPECIALIST",
+  "exp": 10000,
+  "realLvl": 2,
+  "stones": [],
+  "items": [],
+  "name": "Manjizz"
+}

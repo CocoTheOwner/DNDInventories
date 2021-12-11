@@ -1,0 +1,25 @@
+{
+  "money": {
+    "cp": 0,
+    "sp": 0,
+    "ep": 0,
+    "gp": 0,
+    "pp": 0,
+    "simplify": false
+  },
+  "str": 11,
+  "dex": 12,
+  "con": 15,
+  "intl": 11,
+  "wis": 18,
+  "chr": 13,
+  "com": 6,
+  "health": 0,
+  "mHp": 20,
+  "cc": "CLERIC",
+  "exp": 7000,
+  "realLvl": 2,
+  "stones": [],
+  "items": [],
+  "name": "Trevor"
+}

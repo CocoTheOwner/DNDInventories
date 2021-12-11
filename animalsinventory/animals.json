@@ -1,0 +1,71 @@
+{
+  "animals": [
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Mule",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    },
+    {
+      "name": "Horse",
+      "carries": 250,
+      "stats": ""
+    }
+  ],
+  "items": [],
+  "name": "Animals"
+}
