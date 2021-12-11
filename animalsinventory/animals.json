@@ -66,6 +66,727 @@
       "stats": ""
     }
   ],
-  "items": [],
+  "items": [
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Armor (Plate mail)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 600,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 50.0,
+        "details": "AC 3"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Sword (Long)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 15,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 4.0,
+        "details": "(SM) 1d8 (L) 1d12"
+      },
+      "amount": 22,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Dagger",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "(SM) 1d4 (L) 1d3"
+      },
+      "amount": 401,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Quarrel (Heavy)",
+        "worth": {
+          "cp": 0,
+          "sp": 2,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d4+1 (L) 1d6+1"
+      },
+      "amount": 1050,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Shield (Medium)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 7,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 10.0,
+        "details": "-1 AC"
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "UNKNOWN STONE",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "Unknown Stone"
+      },
+      "amount": 7,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Rope (Hemp)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 20.0,
+        "details": "per 50 ft."
+      },
+      "amount": 3,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Backpack",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Tinderbox",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 5,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Piton",
+        "worth": {
+          "cp": 3,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.01,
+        "details": ""
+      },
+      "amount": 5,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Lamp Oil",
+        "worth": {
+          "cp": 6,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "per flask"
+      },
+      "amount": 4,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Flight)",
+        "worth": {
+          "cp": 3,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d6 (L) 1d6"
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrowhead (Flight)",
+        "worth": {
+          "cp": 3,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d6 (L) 1d6"
+      },
+      "amount": 503,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrowhead (Sheaf)",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 53,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Sheaf)",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d8 (L) 1d8"
+      },
+      "amount": 7,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Sword (Bastard)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 25,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 10.0,
+        "details": "(SM) 1H 1d8 / 2H 2d4 (L) 1H 1d12 / 2H 2d8"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Bedroll",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": ""
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Bowstring",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.0,
+        "details": ""
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Armor (Chain mail)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 75,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 40.0,
+        "details": "AC 5"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Chalk",
+        "worth": {
+          "cp": 1,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 29,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Grappling hook",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 4.0,
+        "details": ""
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Grindstone",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.5,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Flail (Horseman\u0027s)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 8,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1d4+1 (L) 1d4+1"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Axe (Hand)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1d6 (L) 1d4"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Knife",
+        "worth": {
+          "cp": 0,
+          "sp": 5,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.5,
+        "details": "(SM) 1d3 (L) 1d2"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Lance (Light Horse)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 6,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1d6 (L) 1d8"
+      },
+      "amount": 7,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Crossbow (Light)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 35,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 7.0,
+        "details": "(SM) 1d6 (L) 1d8"
+      },
+      "amount": 4,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "HARNESS",
+        "name": "Saddle bags (Large)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 4,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 8.0,
+        "details": ""
+      },
+      "amount": 6,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "PROVISIONS",
+        "name": "Herbs",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": "per lb."
+      },
+      "amount": 5,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Shield (Small)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 3,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "-1 AC"
+      },
+      "amount": 3,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Sword (Short)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 10,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": "(SM) 1d6 (L) 1d8"
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Spear",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1H 1d6 / 2H 1d8+1 (L) 1H 1d8 / 2H 2d6"
+      },
+      "amount": 17,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Spear (Long)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 5,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 8.0,
+        "details": "(SM) 1H 1d8 / 2H 2d6 (L) 1H 1d8+1 / 2H 3d6"
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Survival Kit (Swamp)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 5,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Survival Kit (Forest)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 5,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Tent (Small)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 5,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 10.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Wineskin",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": ""
+      },
+      "amount": 3,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Dagger (Scrap)",
+        "worth": {
+          "cp": 0,
+          "sp": 2,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "(SM) 1d3 (L) 1d2 by small enemies"
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Crossbow (Heavy)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 14.0,
+        "details": "(SM) arrow (L) arrow"
+      },
+      "amount": 30,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Sword (Scimitar)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 15,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 4.0,
+        "details": "(SM) 1d8 (L) 1d8"
+      },
+      "amount": 10,
+      "loot": false
+    }
+  ],
   "name": "Animals"
 }

@@ -185,6 +185,7 @@ GEMSTONES,Tourmaline (Blue),100,0.1,Blue
 GEMSTONES,Tourmaline (Brown),100,0.1,Brown
 GEMSTONES,Tourmaline (Red),100,0.1,Red
 GEMSTONES,Turquoise,10,0.1,Aqua with darker mottling
+GEMSTONES,UNKNOWN STONE,0,0.1,Unknown Stone
 GEMSTONES,Zircon,50,0.1,Clear pale aqua
 HARNESS,Barding (Chain),500.0,70.0,
 HARNESS,Barding (Full plate),2000.0,85.0,
@@ -208,11 +209,13 @@ MISC,Backpack,2.0,2.0,
 MISC,Barrel,2.0,30.0,
 MISC,Basket (Large),0.3,1.0,
 MISC,Basket (Small),0.05,0.1,
+MISC,Bedroll,1,5,
 MISC,Bell,1.0,0.1,
 MISC,Belt pouch (Large),1.0,1.0,
 MISC,Belt pouch (Small),0.7,0.1,
 MISC,Block and tackle,5.0,5.0,
 MISC,Bolt case,1.0,1.0,
+MISC,Bowstring,0,0
 MISC,Bucket,0.5,3.0,
 MISC,Candle,0.01,0.1,
 MISC,Canvas,0.4,1.0,per sq. yard
@@ -227,10 +230,12 @@ MISC,Cloth (Rich),100.0,10.0,per 10 sq. yds.
 MISC,Crampons,4.0,2.0,
 MISC,Fishhook,0.1,0.01,
 MISC,Fishing net (10 sq. ft.),4.0,5.0,
+MISC,Fishing Hook,0.1,0.01,
 MISC,Flint and steel,0.5,0.1,
 MISC,Glass bottle,10.0,0.1,
 MISC,Grappling hook,0.8,4.0,
 MISC,Greek fire,10.0,2.0,per flask
+MISC,Grindstone,0,0.5,
 MISC,Holy item,25.0,0.1,
 MISC,Hourglass,25.0,1.0,
 MISC,Iron pot,0.5,2.0,
@@ -261,15 +266,22 @@ MISC,Signal whistle,0.8,0.1,
 MISC,Signet ring or personal seal,5.0,0.1,
 MISC,Soap,0.5,1.0,per lb.
 MISC,Spyglass,1000.0,1.0,
+MISC,Survival Kit (Forest),5,3,
+MISC,Survival Kit (Swamp),5,3,
+MISC,Survival Kit (Plain),5,3,
+MISC,Survival Kit (Hills),5,3,
+MISC,Survival Kit (Desert),5,3,
 MISC,Tent (Large),25.0,20.0,
 MISC,Tent (Pavilion),100.0,50.0,
 MISC,Tent (Small),5.0,10.0,
 MISC,Thieves' picks,30.0,1.0,
+MISC,Tinderbox,2,2,
 MISC,Torch,0.01,1.0,
 MISC,Water clock,1000.0,200.0,
 MISC,Whetstone,0.02,1.0,
 MISC,Wineskin,0.8,1.0,
 MISC,Winter blanket,0.5,3.0,
+MISC,Wire,1,0.1,per ft.
 MISC,Writing ink,8.0,0.1,per vial
 PROVISIONS,Barrel of pickled fish,3.0,null,
 PROVISIONS,Butter,0.2,null,per lb.
@@ -294,14 +306,17 @@ WEAPONS,Ankus (Elephant Goad),3.0,4.0,(SM) 1d4 (L) 1d4
 WEAPONS,Arquebus,500.0,10.0,(SM) 1d10 (L) 1d10
 WEAPONS,Arrow (Daikyu),0.05,1.0,(SM) 1d8 (L) 1d6
 WEAPONS,Arrow (Flight),0.03,0.1,(SM) 1d6 (L) 1d6
+WEAPONS,Arrowhead (Flight),0.03,0.1,
 WEAPONS,Arrow (Kenyan),0.05,0.1,(SM) 1d10 (L) 1d10
 WEAPONS,Arrow (Mail-Piercer),0.05,0.1,(SM) 1d6 (L) 1d6
 WEAPONS,Arrow (Sheaf),0.05,0.1,(SM) 1d8 (L) 1d8
+WEAPONS,Arrowhead (Sheaf),0.05,0.1,
 WEAPONS,Arrow (War),0.05,0.1,(SM) 1d8 (L) 1d8
 WEAPONS,Assegai,2.0,1.0,(SM) 1d8 (L) 1d10
 WEAPONS,Axe (Battle),5.0,7.0,(SM) 1d8 (L) 1d8
 WEAPONS,Axe (Forearm),1.0,4.0,(SM) 1d6 (L) 1d6
-WEAPONS,Axe (Hand or Throwing),1.0,5.0,(SM) 1d6 (L) 1d4
+WEAPONS,Axe (Hand),1.0,5.0,(SM) 1d6 (L) 1d4
+WEAPONS,Axe (Throwing),1.0,5.0,(SM) 1d6 (L) 1d4
 WEAPONS,Axe (Two-Handed Battle),10.0,10.0,(SM) 1d10 (L) 2d8
 WEAPONS,Bagh Nakh (Tiger Claws),0.4,1.0,(SM) 1d2 (L) 1d2
 WEAPONS,Bard's Friend,10.0,3.0,(SM) 1d4+1 (L) 1d3
@@ -344,6 +359,7 @@ WEAPONS,Dagger (Climbing),5.0,1.0,(SM) 1d3 (L) 1d2
 WEAPONS,Dagger (Giant-kin),5.0,3.0,(SM) 1d6 (L) 1d8
 WEAPONS,Dagger (Parrying),5.0,1.0,(SM) 1d3 (L) 1d3
 WEAPONS,Dagger (Stone),0.2,1.0,(SM) 1d3 (L) 1d2
+WEAPONS,Dagger (Scrap),0.2,1.0,(SM) 1d3 (L) 1d2 by small enemies
 WEAPONS,Dart,0.5,0.5,(SM) 1d3 (L) 1d2
 WEAPONS,Dart (Barbed),0.0,5.0,(SM) 1d4 (L) 1d4
 WEAPONS,Dejada,6.0,8.0,(SM) 1d8 (L) 1d6
