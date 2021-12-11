@@ -20,6 +20,205 @@
   "exp": 9500,
   "realLvl": 2,
   "stones": [],
-  "items": [],
+  "items": [
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Belt",
+        "worth": {
+          "cp": 0,
+          "sp": 3,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Sword Baldric",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 4,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "ARMOR",
+        "name": "Armor (Studded leather)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 20,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 25.0,
+        "details": "AC 7"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Backpack",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Bow (Composite Long)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 100,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": "(SM) arrow (L) arrow"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Bow (Composite Short)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 75,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": "(SM) arrow (L) arrow"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Spear",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1H 1d6 / 2H 1d8+1 (L) 1H 1d8 / 2H 2d6"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Sword (Long)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 15,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 4.0,
+        "details": "(SM) 1d8 (L) 1d12"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Quiver",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Signal whistle",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Flail (Horseman\u0027s)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 8,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 5.0,
+        "details": "(SM) 1d4+1 (L) 1d4+1"
+      },
+      "amount": 1,
+      "loot": false
+    }
+  ],
   "name": "Foraoise"
 }
