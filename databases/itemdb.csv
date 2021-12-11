@@ -218,7 +218,7 @@ WEAPONS,Arrow (Flight),0.03,0.1,(SM) 1d6 (L) 1d6
 WEAPONS,Arrow (Kenyan),0.05,0.1,(SM) 1d10 (L) 1d10
 WEAPONS,Arrow (Mail-Piercer),0.05,0.1,(SM) 1d6 (L) 1d6
 WEAPONS,Arrow (Sheaf),0.05,0.1,(SM) 1d8 (L) 1d8
-WEAPONS,Arrow (War),0.05,0.1,(SM) 1d4+1 (L) 1d4+1
+WEAPONS,Arrow (War),0.05,0.1,(SM) 1d8 (L) 1d8
 WEAPONS,Assegai,2.0,1.0,(SM) 1d8 (L) 1d10
 WEAPONS,Axe (Battle),5.0,7.0,(SM) 1d8 (L) 1d8
 WEAPONS,Axe (Forearm),1.0,4.0,(SM) 1d6 (L) 1d6
