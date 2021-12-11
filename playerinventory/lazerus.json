@@ -1,0 +1,44 @@
+{
+  "money": {
+    "cp": 0,
+    "sp": 0,
+    "ep": 0,
+    "gp": 0,
+    "pp": 0,
+    "simplify": false
+  },
+  "str": 15,
+  "dex": 13,
+  "con": 18,
+  "intl": 9,
+  "wis": 11,
+  "chr": 10,
+  "com": 12,
+  "health": 0,
+  "mHp": 51,
+  "cc": "FIGHTER",
+  "exp": 8700,
+  "realLvl": 2,
+  "stones": [],
+  "items": [
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Belt",
+        "worth": {
+          "cp": 0,
+          "sp": 3,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    }
+  ],
+  "name": "Lazerus"
+}
