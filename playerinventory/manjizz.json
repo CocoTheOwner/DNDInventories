@@ -217,6 +217,24 @@
       },
       "amount": 1,
       "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Steel Ball (Slingshot)",
+        "worth": {
+          "cp": 1,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d4+1 (L) 1d6+1"
+      },
+      "amount": 5,
+      "loot": false
     }
   ],
   "name": "Manjizz"

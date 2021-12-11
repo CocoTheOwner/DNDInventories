@@ -812,6 +812,60 @@
       },
       "amount": 60,
       "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Steel Ball (Slingshot)",
+        "worth": {
+          "cp": 1,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d4+1 (L) 1d6+1"
+      },
+      "amount": 45,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Pot 2",
+        "worth": {
+          "cp": 0,
+          "sp": 5,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Pot 3",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 3.0,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
     }
   ],
   "name": "Animals"
