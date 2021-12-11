@@ -19,7 +19,6 @@
   "cc": "RANGER",
   "exp": 9830,
   "realLvl": 2,
-  "stones": [],
   "items": [
     {
       "item": {
@@ -185,24 +184,6 @@
     },
     {
       "item": {
-        "category": "MISC",
-        "name": "Signal whistle",
-        "worth": {
-          "cp": 0,
-          "sp": 8,
-          "ep": 0,
-          "gp": 0,
-          "pp": 0,
-          "simplify": true
-        },
-        "weight": 0.1,
-        "details": ""
-      },
-      "amount": 1,
-      "loot": false
-    },
-    {
-      "item": {
         "category": "WEAPONS",
         "name": "Flail (Horseman\u0027s)",
         "worth": {
@@ -215,6 +196,168 @@
         },
         "weight": 5.0,
         "details": "(SM) 1d4+1 (L) 1d4+1"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Flight)",
+        "worth": {
+          "cp": 3,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d6 (L) 1d6"
+      },
+      "amount": 22,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Arrow (Sheaf)",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) 1d8 (L) 1d8"
+      },
+      "amount": 22,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "PROVISIONS",
+        "name": "Firewood",
+        "worth": {
+          "cp": 1,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": "per day"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Moonstone",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "White with pale Blue hue"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Citrine",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "Pale Yellow Brown"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Bloodstone",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "Dark Gray with Red Flecks"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Jasper (Blue)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "Blue"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Fire Opal",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1000,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "Blue"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "GEMSTONES",
+        "name": "Opal (Small)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 50,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
       },
       "amount": 1,
       "loot": false

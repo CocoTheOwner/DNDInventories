@@ -19,7 +19,205 @@
   "cc": "SPECIALIST",
   "exp": 10360,
   "realLvl": 2,
-  "stones": [],
-  "items": [],
+  "items": [
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Tunic",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Vest",
+        "worth": {
+          "cp": 0,
+          "sp": 6,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Hose",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Boots (Soft)",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "CLOTHING",
+        "name": "Cloak (Good cloth)",
+        "worth": {
+          "cp": 0,
+          "sp": 8,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": null,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Slingshot",
+        "worth": {
+          "cp": 5,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "(SM) rock (L) rock"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "WEAPONS",
+        "name": "Dagger",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 2,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "(SM) 1d4 (L) 1d3"
+      },
+      "amount": 1,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Greek fire",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 10,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 2.0,
+        "details": "per flask"
+      },
+      "amount": 5,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Writing ink",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 8,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": "per vial"
+      },
+      "amount": 2,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Parchment",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 1,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.01,
+        "details": "per sheet"
+      },
+      "amount": 10,
+      "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Pen \u0026 Quill",
+        "worth": {
+          "cp": 0,
+          "sp": 1,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 0.1,
+        "details": ""
+      },
+      "amount": 1,
+      "loot": false
+    }
+  ],
   "name": "Manjizz"
 }

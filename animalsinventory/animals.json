@@ -794,6 +794,24 @@
       },
       "amount": 10,
       "loot": false
+    },
+    {
+      "item": {
+        "category": "MISC",
+        "name": "Scrap Metal",
+        "worth": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0,
+          "simplify": true
+        },
+        "weight": 1.0,
+        "details": "per pound"
+      },
+      "amount": 60,
+      "loot": false
     }
   ],
   "name": "Animals"
